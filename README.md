@@ -1,6 +1,5 @@
 # MEDI CONSULT
-An App a Day Keeps a Doctor away :wink:
-
+An app a day keeps the doctor away :wink:
 
 | Table of Contents |
 |--|
@@ -12,18 +11,17 @@ An App a Day Keeps a Doctor away :wink:
 |[Problems Encountered](https://github.com/HAC-2020/rudrabarad/blob/master/README.md#problems-encountered)|
 |[APK File](https://github.com/HAC-2020/rudrabarad/blob/master/README.md#apk-file)|
 
-
 ## Abstract
-This project is based on the Mobile Application for Online Consultancy for people all around the world. This App basically allows us to Consult ourselves while sitting at our Home.
+This project is based on a mobile application for online consultancy available to everyone around the world. This app basically allows us to get consultation at the comfort of our home.
 
 ## Objective
-The main objective of this application is to help people to cure them and save their Time :watch:, Money :moneybag: and Resources, and save their Lives :heart: as well
+The application aims to help people cure themsleves while saving their time :watch:, money :moneybag:, resources, and most importantly their lives :heart:.
 
 ## Purpose
-As we know in today’s rush it is difficult to take a Doctor’s appointment in Emergency :ambulance:. So, what to do until we get an appointment with Doctor. That’s where this App’s comes into the action. A user can input their Symptoms and can get a list of Diseases they may poses.
+Nowadays everyone has a hectic schedule which makes it difficult to get a doctor’s appointment in case of an emergency :ambulance:. So, what to do until we get an appointment with doctor. That’s when this app comes into action. A user can input their symptoms into the application to get a list of diseases that they may possess.
 
 ## Scope
-With the help of this application one can prevent their Diseases from spreading more. This can save someone’s Life who cannot reach to the Doctor :hospital: in case of Emergency . They can at least take some action for preventing their Diseas
+With the help of this application one can prevent their diseases from spreading. This can help save someone’s life who does not have access to a doctor or hospital :hospital:. This can at least allow them to take some action to stop their disease from worsening.
 
 ## Modules
 
@@ -32,7 +30,7 @@ With the help of this application one can prevent their Diseases from spreading 
 	 - Name
 	 - Age
 	 - Gender
- - Diseases Checker
+ - Disease Checker
 	 - Entering Symptoms 
 	 - Displaying Diseases :stethoscope:
 	 - Link for Detailed Information
@@ -45,11 +43,11 @@ With the help of this application one can prevent their Diseases from spreading 
 	 - Location
 
 ## Problems Encountered
-- Asking Permission for Calling :telephone_receiver: while Implementing SOS Module
-- While implementing Google maps :pushpin: API for nearby Hospitals
-- Wasn't able to directly show the information from google so I went with putting Screenshots :sweat_smile:
-- Changing Dependencies Of Android Studio caused Immense Difficulty :disappointed_relieved:
-- Updating Gradle File :worried: and Version of Android Studio
+- Asking permission for calling :telephone_receiver: while implementing SOS module
+- While implementing Google maps :pushpin: API for nearby hospitals
+- Wasn't able to directly show the information from Google so I went with using Screenshots :sweat_smile:
+- Changing dependencies of Android Studio caused immense difficulty :disappointed_relieved:
+- Updating Gradle file :worried: and version of Android Studio
 
 ## APK File
 - [Download APK File from here](https://github.com/HAC-2020/rudrabarad/blob/master/Medi%20Consult.apk) 📥
